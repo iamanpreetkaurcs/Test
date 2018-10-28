@@ -10,3 +10,4 @@ if (hungry == "yes"):
     print("Eat Samosa")
 else:
     print("Do your HW")
+    print("eat pizza")
